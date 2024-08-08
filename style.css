@@ -1,5 +1,5 @@
 *{
-    
+
 }
 
 body{
@@ -8,6 +8,8 @@ body{
 
 header{
 background-color: black;
+width:unset;
+height: auto;
 }
 
 main{
