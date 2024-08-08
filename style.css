@@ -30,6 +30,7 @@ footer {
 .texto {
     display: flex;
     text-align: left;
+    height: 50%;
     font-size: 50px;
     background-color: chartreuse;
 }
