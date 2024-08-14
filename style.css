@@ -30,8 +30,11 @@ footer {
     text-align: center;
 }
 
-.texto {
+.container{
     display: flex;
+}
+
+.texto {
     text-align: left;
     width: 50%;
     font-size: 50px;
@@ -40,6 +43,5 @@ footer {
 
 .imagem {
     background-color: chocolate;
-    display: flex;
     width: 50%;
 }
