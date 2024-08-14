@@ -41,6 +41,6 @@ footer {
 .imagem {
     background-color: chocolate;
     display: flex;
-    text-align: right;
+    
     width: 50%;
 }
