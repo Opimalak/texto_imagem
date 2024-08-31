@@ -28,6 +28,8 @@ main {
 .texto {
     font-size: 50px;
     background-color: chartreuse;
+    margin-right: 50%;
+    flex-direction: column;
 }
 
 .imagem {
