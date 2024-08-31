@@ -26,12 +26,10 @@ main {
 }
 
 .texto {
-    width: 50%;
     font-size: 50px;
     background-color: chartreuse;
 }
 
 .imagem {
     background-color: chocolate;
-    width: 50%;
 }
